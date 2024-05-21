@@ -241,13 +241,159 @@ Dans cette partie, nous allons aborder la présentation de l'équipe Scrum ainsi
         \hline
     
     \end{longtable}
-    
-\section{Identification des scénarios}
 
+    \textbf{Utilisateur } ayant pour rôle visiteur, développeur ou administrateur
+    \subsection{Planification de la release } 
+    La planification de la release est une pratique agile consistant à diviser le travail en itérations courtes. Nous avons découpé notre release en 3 sprints de 4 semaines, comme l’illustré le tableau suivant.
+
+    \documentclass{article}
+    \usepackage{longtable}
+
+    \begin{document}
+
+    \begin{longtable}[c]{
+        |p{.15\textwidth}
+        |p{.25\textwidth}
+        |p{.25\textwidth}
+        |p{.25\textwidth}|
+    }
+        \caption{Planning des Sprints}
+        \label{tab:sprintplanning}\\
+        \hline
+        \textbf{} & \textbf{Sprint 1} & \textbf{Sprint 2} & \textbf{Sprint 3} \\
+        \hline
+        \endfirsthead
+        \multicolumn{4}{c}%
+        {{\bfseries \tablename\ \thetable{} -- suite de la page précédente}} \\
+        \hline
+        \textbf{} & \textbf{Sprint 1} & \textbf{Sprint 2} & \textbf{Sprint 3} \\
+        \hline
+        \endhead
+        \hline \multicolumn{4}{|r|}{{\bfseries Suite à la page suivante}} \\ \hline
+        \endfoot
+        \hline
+        \endlastfoot
+
+        \textbf{Date début et fin} & Due 04-03-2024 au 29-03-2024 & Due 01-04-2024 au 26-04-2024 & Due 29-04-2024 au 24-05-2024 \\
+        \hline
+        \textbf{Objectif} & 
+        L'objectif du sprint 1 est de fournir aux utilisateurs la possibilité de créer leur compte utilisateur, ainsi que de créer une API et de la rendre disponible sur la marketplace et de gérer leur profil. &
+        L'objectif du sprint 2 est de permettre aux utilisateurs d'intégrer la tarification dans leur API, de gérer leurs souscriptions, de consommer les APIs disponibles dans le catalogue et de développer un tableau de bord administrateur pour gérer les utilisateurs. &
+        L'objectif du sprint 3 est de développer un tableau de bord permettant aux utilisateurs d'analyser l'utilisation de leurs APIs via des statistiques et de gérer leurs transactions. Il vise également à permettre aux administrateurs de suivre les statistiques des APIs et des paiements. De plus, il inclut la mise en place d'un système de notifications pour la gestion des signalements et des messages ainsi que la gestion des feedbacks. \\
+        \hline
+        \textbf{Les User Stories} & 1 jusqu’à 17 & 19 jusqu’à 32 & 33 jusqu’à 48 \\
+        \hline
+        \textbf{Estimation} & 87 & 103 & 106 \\
+        \hline
+
+    \end{longtable}
+
+    \end{document}
+
+\section{Environnement de travail}
+    Cette partie présente spécifiquement l'environnement matériel et logiciel utilisés pour mettre en œuvre notre application.
+    \subsection{Environnement matériel } 
+    Les matériels utilisés pour notre projet se résument comme suit :
+    \begin{longtable}[c]{
+        |p{.20\textwidth}
+        |p{.25\textwidth}
+        |p{.20\textwidth}
+        |p{.25\textwidth}|
+    }
+        \caption{Spécifications des Ordinateurs}
+        \label{tab:computerspecs}\\
+        \hline
+        \textbf{Nom de l'ordinateur} & \textbf{Processeur} & \textbf{RAM} & \textbf{Disque Dur} & \textbf{Système d'exploitation} \\
+        \hline
+        \endfirsthead
+        \multicolumn{4}{c}%
+        {{\bfseries \tablename\ \thetable{} -- suite de la page précédente}} \\
+        \hline
+        \textbf{Nom de l'ordinateur} & \textbf{Processeur} & \textbf{RAM} & \textbf{Disque Dur} & \textbf{Système d'exploitation} \\
+        \hline
+        \endhead
+        \hline \multicolumn{4}{|r|}{{\bfseries Suite à la page suivante}} \\ \hline
+        \endfoot
+        \hline
+        \endlastfoot
+        
+        Yassine-MSI & 10th Gen Intel® Core™ i7-1015G4 @ 3.00GHz × 4 & 24 Go & 1 To HDD + 512 Go SSD & Windows 11 \\
+        \hline
+        Asus-PC & 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz   2.69 GHz & 16 Go & 1 To SSD & Windows 11 \\
+        \hline
+    \end{longtable}
+    \subsection{Environnement logiciel  } 
+    Les logiciels utilisés pour notre projet se résument comme suit :
+
+
+    \begin{longtable}[c]{
+        |p{.15\textwidth}
+        |p{.75\textwidth}|
+    }
+        \caption{Description des Logiciels, Bibliothèques et Frameworks}
+        \label{tab:softwaredesc}\\
+        \hline
+        \textbf{Logo} & \textbf{Description} \\
+        \hline
+        \endfirsthead
+        \multicolumn{2}{c}%
+        {{\bfseries \tablename\ \thetable{} -- suite de la page précédente}} \\
+        \hline
+        \textbf{Logo} & \textbf{Description} \\
+        \hline
+        \endhead
+        \hline \multicolumn{2}{|r|}{{\bfseries Suite à la page suivante}} \\ \hline
+        \endfoot
+        \hline
+        \endlastfoot
+        
+        \includegraphics[width=0.1\textwidth]{angular_logo.png} & Angular 17 : est un Framework côté client (front end) à code source ouvert basé sur TypeScript dirigé par l’équipe du projet Angular de Google qui permet de construire des applications web dynamiques. \\
+        \hline
+        \includegraphics[width=0.1\textwidth]{html_logo.png} & HTML (pour HyperText Markup Language) : est le langage utilisé pour structurer une page web et son contenu. \\
+        \hline
+        \includegraphics[width=0.1\textwidth]{css_logo.png} & CSS (Cascading Style Sheets) : est un langage de feuille de style utilisé pour la mise en forme des pages HTML. \\
+        \hline
+        \includegraphics[width=0.1\textwidth]{tailwind_logo.png} & Tailwind UI : est une collection de superbes composants d'interface utilisateur entièrement réactifs. Il propose des centaines d'exemples prêts à l'emploi. \\
+        \hline
+        \includegraphics[width=0.1\textwidth]{swagger_logo.png} & Swagger UI permet de visualiser et d'interagir avec les ressources de l'API sans qu'aucune logique de mise en œuvre ne soit en place. Il est automatiquement généré à partir de votre spécification OpenAPI avec la documentation visuelle facilitant la mise en œuvre back-end et la consommation côté client. \\
+        \hline
+        \includegraphics[width=0.1\textwidth]{nodejs_logo.png} & Node JS 20 : est un environnement permettant d'exécuter du code JavaScript hors d'un navigateur. Il repose sur le moteur JavaScript V8 développé par Google pour ses navigateurs Chrome et Chromium. \\
+        \hline
+        \includegraphics[width=0.1\textwidth]{expressjs_logo.png} & Express JS : est une infrastructure d'applications Web Node.js minimaliste et flexible qui fournit un ensemble de fonctionnalités robuste pour les applications Web et mobiles. \\
+        \hline
+        \includegraphics[width=0.1\textwidth]{mongodb_logo.png} & MongoDB : est un système de gestion de base de données orienté documents (NoSQL), répartissable sur un nombre quelconque d'ordinateurs et ne nécessitant pas de schéma prédéfini des données. Il est écrit en C++. \\
+        \hline
+        \includegraphics[width=0.1\textwidth]{vscode_logo.png} & Visual Studio Code : est un éditeur de code cross-platforme, code source ouvert et gratuit, supportant une dizaine de langages de développement. \\
+        \hline
+        \includegraphics[width=0.1\textwidth]{postman_logo.png} & Postman : permet de construire et d’exécuter des requêtes HTTP, de les stocker dans un historique afin de pouvoir les rejouer, mais surtout de les organiser en collections. \\
+        \hline
+        \includegraphics[width=0.1\textwidth]{github_logo.png} & GitHub est un site web et un service de cloud qui aide les développeurs à stocker et à gérer leur code, ainsi qu’à suivre et contrôler les modifications qui lui sont apportées. \\
+        \hline
+        \includegraphics[width=0.1\textwidth]{staruml_logo.png} & StarUML : Il s'agit d'un outil pour créer des diagrammes UML (Unified Modeling Language), qui permet de créer par exemple des diagrammes de classes, des diagrammes de cas d'utilisation, des diagrammes de séquence et d'autres types de diagrammes. \\
+        \hline
+    \end{longtable}
+
+
+\section{Architecture et patron de conception }
+    \subsection{Architecture adoptée.  } 
+    L'architecture MEAN est une pile technologique populaire pour le développement d'applications web. Elle est composée de quatre composants principaux : MongoDB, Express, Angular et Node.js. Chaque composant joue un rôle spécifique dans le développement d'une application web. MongoDB est utilisé pour stocker les données de l'application, Express est utilisé pour créer l'API web, Angular est utilisé pour créer l'interface utilisateur et Node.js est utilisé pour exécuter le code JavaScript côté serveur.
+    Le MVC est un motif de conception (design pattern) qui sépare une application en trois composants logiques principaux : modèle, vue et contrôleur. Il propose une solution générale au problème de la structuration d’une application comme le montre la figure 20.
     
-    
-\section{Diagramme de GANTT théorique}
-    
-    
+    \begin{figure}[H]
+        \centering
+        \frame{\includegraphics[width=0.5\columnwidth]{img/Architecture_MEAN.png}}
+        \caption{Architecture MEAN }
+        \label{fig:logo_tt}
+    \end{figure}
+    \subsection{Architecture adoptée.  } 
+    Le MVC est un motif de conception (design pattern) qui sépare une application en trois composants logiques principaux : modèle, vue et contrôleur. Il propose une solution générale au problème de la structuration d’une application comme le montre la figure 20. \\
+    Dans notre projet, le choix de ce modèle est exigé par le framework front-end   Angular, et le framework back-end Node js \\
+    Le fonctionnement du patron est illustrer à travers la figure suivante :
+    \begin{figure}[H]
+        \centering
+        \frame{\includegraphics[width=0.5\columnwidth]{img/Architecture_MVC.png}}
+        \caption{Architecture MEAN }
+        \label{fig:logo_tt}
+    \end{figure}
 \section*{Conclusion}
-    Conclusion partielle ayant pour objectif de synthétiser le chapitre et d’annoncer le chapitre suivant.
+Dans ce chapitre, nous avons préparé notre plan de travail. Nous avons présenté les besoins fonctionnels et non fonctionnels, les tâches des acteurs, le product backlog ainsi que la planification de la release, l'environnement de travail, et l'architecture et les patrons de conception. Dans le chapitre suivant, nous allons présenter le sprint 1 
