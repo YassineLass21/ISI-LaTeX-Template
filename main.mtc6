@@ -1,0 +1,19 @@
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {I.} Extrait du backlog du sprint 3}{\reset@font\mtcSfont 71}{}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {II.} Spécification fonctionnelle}{\reset@font\mtcSfont 72}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {1.}Diagramme de cas d'utilisation}{\reset@font\mtcSSfont 72}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.}Exemple d'une maquette d'interface du sprint 3}{\reset@font\mtcSSfont 74}{}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {III.} Conception}{\reset@font\mtcSfont 75}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {1.}Modélisation structurelle}{\reset@font\mtcSSfont 75}{}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {1.1.}Diagramme du classes}{\reset@font\mtcSSSfont 75}{}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {1.2.}Diagramme de déploiement}{\reset@font\mtcSSSfont 77}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.}Diagramme d'état "Demande d'un payout"}{\reset@font\mtcSSfont 78}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {3.}Diagramme de séquence "Demande de payout"}{\reset@font\mtcSSfont 79}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.}Diagramme de séquence "Ajouter rapport"}{\reset@font\mtcSSfont 80}{}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {IV.} Revue de sprint }{\reset@font\mtcSfont 80}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {1.}Réalisation}{\reset@font\mtcSSfont 80}{}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {1.1.}Gestion des demandes de payout}{\reset@font\mtcSSSfont 81}{}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {1.2.}Dashboard de statistiques}{\reset@font\mtcSSSfont 82}{}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {1.3.}Gestion des feedbacks}{\reset@font\mtcSSSfont 83}{}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {1.4.}Liste des notifications}{\reset@font\mtcSSSfont 84}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.}Burndown Chart}{\reset@font\mtcSSfont 85}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {3.}Rétrospective du sprint 3}{\reset@font\mtcSSfont 85}{}}

@@ -1,0 +1,28 @@
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {I.}Présentation de la société}{\reset@font\mtcSfont 3}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {1.}Présentation générale }{\reset@font\mtcSSfont 3}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.}Départements de Vermeg }{\reset@font\mtcSSfont 4}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {3.}Services }{\reset@font\mtcSSfont 4}{}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {II.}Concepts clés autour des API}{\reset@font\mtcSfont 5}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {1.}Les Fondements des API }{\reset@font\mtcSSfont 5}{}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {1.1.}Définition d'une API }{\reset@font\mtcSSSfont 5}{}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {1.2.}Fonctionnement d'une API }{\reset@font\mtcSSSfont 6}{}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {1.3.}Types d'API}{\reset@font\mtcSSSfont 6}{}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {1.4.}Structure d'une API}{\reset@font\mtcSSSfont 7}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.}Documentation d'une API }{\reset@font\mtcSSfont 8}{}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {2.1.}Choix de la documentation }{\reset@font\mtcSSSfont 8}{}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {2.2.}Swagger/OpenAPI }{\reset@font\mtcSSSfont 8}{}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {2.3.}Caractéristiques d'un fichier Swagger/OpenAPI }{\reset@font\mtcSSSfont 8}{}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {2.4.}Avantages de Swagger/OpenAPI}{\reset@font\mtcSSSfont 9}{}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {2.5.}Les outils de Swagger/OpenAPI }{\reset@font\mtcSSSfont 10}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {3.} MarketPlace d'API }{\reset@font\mtcSSfont 11}{}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {3.1.} Définition d'une marketPlace d’API}{\reset@font\mtcSSSfont 11}{}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {3.2.} Fonctionnalités d'une marketPlace d’API}{\reset@font\mtcSSSfont 11}{}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {3.3.} Avantages d'une marketPlace d’API}{\reset@font\mtcSSSfont 12}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.}Acteurs du domaine métier}{\reset@font\mtcSSfont 12}{}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {III.}Etude de marché}{\reset@font\mtcSfont 13}{}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {IV.}Description et critique de l’existant}{\reset@font\mtcSfont 16}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {1.}Description et critique de l'existant }{\reset@font\mtcSSfont 16}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.}Solution proposée}{\reset@font\mtcSSfont 16}{}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {V.}Méthodologie adoptée et langage de modélisation}{\reset@font\mtcSfont 17}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {1.}Choix de la méthodologie }{\reset@font\mtcSSfont 17}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.}Langage de modélisation}{\reset@font\mtcSSfont 18}{}}

@@ -1,0 +1,442 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{none/global//global/global/global}
+  \entry{vermeg}{online}{}{}
+    \name{author}{1}{}{%
+      {{hash=V}{%
+         family={Vermeg},
+         familyi={V\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{V1}
+    \strng{fullhash}{V1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Présentation générale}
+    \verb{url}
+    \verb https://www.vermeg.com/who-we-are/
+    \endverb
+    \field{year}{Accès le 28-Février-2024}
+  \endentry
+
+  \entry{DefAPI}{online}{}{}
+    \name{author}{1}{}{%
+      {{hash=A}{%
+         family={API},
+         familyi={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{A1}
+    \strng{fullhash}{A1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Définition d’une API}
+    \verb{url}
+    \verb https://www.salesforce.com/fr/resources/definition/api/
+    \endverb
+    \field{year}{Accès le 29-Février-2024}
+  \endentry
+
+  \entry{APIRest}{online}{}{}
+    \name{author}{1}{}{%
+      {{hash=A}{%
+         family={API},
+         familyi={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{A1}
+    \strng{fullhash}{A1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Définition d’une API Rest}
+    \verb{url}
+    \verb https://restfulapi.net/
+    \endverb
+    \field{year}{Accès le 29-Février-2024}
+  \endentry
+
+  \entry{APISOAP}{online}{}{}
+    \name{author}{1}{}{%
+      {{hash=A}{%
+         family={API},
+         familyi={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{A1}
+    \strng{fullhash}{A1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Définition d’une API SOAP}
+    \verb{url}
+    \verb https://www.w3schools.com/xml/xml_soap.asp
+    \endverb
+    \field{year}{Accès le 28-Février-2024}
+  \endentry
+
+  \entry{APIRPCGraphql}{online}{}{}
+    \name{author}{1}{}{%
+      {{hash=A}{%
+         family={API},
+         familyi={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{A1}
+    \strng{fullhash}{A1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Définition d’une API RPC et Graphql}
+    \verb{url}
+    \verb https://www.jsonrpc.org/specification
+    \endverb
+    \field{year}{Accès le 28-Février-2024}
+  \endentry
+
+  \entry{Swagger}{online}{}{}
+    \name{author}{1}{}{%
+      {{hash=S}{%
+         family={Swagger/OpenAPI},
+         familyi={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{S3}
+    \strng{fullhash}{S3}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Définition de swagger}
+    \verb{url}
+    \verb https://swagger.io/
+    \endverb
+    \field{year}{Accès le 01-Mars-2024}
+  \endentry
+
+  \entry{AvantageSwagger}{online}{}{}
+    \name{author}{1}{}{%
+      {{hash=S}{%
+         family={Swagger},
+         familyi={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{S2}
+    \strng{fullhash}{S2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Avantage d’un fichier Swagger/OpenAP}
+    \verb{url}
+    \verb https://www.ionos.fr/digitalguide/sites-internet/developpement-web/qu
+    \verb est-ce-que-openapi/
+    \endverb
+    \field{year}{Accès le 01-Mars-2024}
+  \endentry
+
+  \entry{marketplaceAPI}{online}{}{}
+    \name{author}{1}{}{%
+      {{hash=M}{%
+         family={Marketplace},
+         familyi={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{M1}
+    \strng{fullhash}{M1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Fonctionnement d’une marketplace d’API}
+    \verb{url}
+    \verb https://global.rakuten.com/corp/news/press/2018/0711_01.html
+    \endverb
+    \field{year}{Accès le 10-Avril-2024}
+  \endentry
+
+  \entry{site1}{online}{}{}
+    \name{author}{1}{}{%
+      {{hash=M}{%
+         family={Marketplace},
+         familyi={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{M1}
+    \strng{fullhash}{M1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{les marketplaces d'API qui existes?}
+    \verb{url}
+    \verb https://slashdot.org/software/api-marketplaces/
+    \endverb
+    \field{year}{Accès le 10-Avril-2024}
+  \endentry
+
+  \entry{site2}{online}{}{}
+    \name{author}{1}{}{%
+      {{hash=M}{%
+         family={Marketplace},
+         familyi={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{M1}
+    \strng{fullhash}{M1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{les marketplaces d'API qui existes?}
+    \verb{url}
+    \verb https://www.g2.com/categories/api-marketplace
+    \endverb
+    \field{year}{Accès le 10-Avril-2024}
+  \endentry
+
+  \entry{Scrum}{online}{}{}
+    \name{author}{1}{}{%
+      {{hash=S}{%
+         family={Scrum},
+         familyi={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{S1}
+    \strng{fullhash}{S1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Qu'est-ce que Scrum ?}
+    \verb{url}
+    \verb https://scrumguides.org/
+    \endverb
+    \field{year}{Accès le 10-Avril-2024}
+  \endentry
+
+  \entry{UML}{online}{}{}
+    \name{author}{1}{}{%
+      {{hash=RP}{%
+         family={ROQUES},
+         familyi={R\bibinitperiod},
+         given={Pascal},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RP1}
+    \strng{fullhash}{RP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{note}{[Eyrolles, 5e édition, 2006, 357p.]}
+    \field{title}{UML2 par la pratique}
+    \verb{url}
+    \verb http://www-public.imtbs-tsp.eu/~gibson/Teaching/Teaching-ReadingMater
+    \verb ial/Roques06.pdf
+    \endverb
+    \field{year}{étude de cas et exercices corrigés}
+  \endentry
+
+  \entry{angular}{online}{}{}
+    \name{author}{1}{}{%
+      {{hash=a}{%
+         family={angular},
+         familyi={a\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{a1}
+    \strng{fullhash}{a1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Qu'est-ce que angular ?}
+    \verb{url}
+    \verb https://angular.dev/overview
+    \endverb
+    \field{year}{Accès le 10-Avril-2024}
+  \endentry
+
+  \entry{tailwind}{online}{}{}
+    \name{author}{1}{}{%
+      {{hash=T}{%
+         family={Tailwind},
+         familyi={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{T1}
+    \strng{fullhash}{T1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Qu'est-ce que tailwind?}
+    \verb{url}
+    \verb https://tailwindcss.com/docs/
+    \endverb
+    \field{year}{Accès le 10-Avril-2024}
+  \endentry
+
+  \entry{angularMaterial}{online}{}{}
+    \name{author}{1}{}{%
+      {{hash=am}{%
+         prefix={angular},
+         prefixi={a\bibinitperiod},
+         family={material},
+         familyi={m\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ma1}
+    \strng{fullhash}{ma1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Qu'est-ce que angular materia?}
+    \verb{url}
+    \verb https://material.angular.io
+    \endverb
+    \field{year}{Accès le 10-Avril-2024}
+  \endentry
+
+  \entry{nodeJS}{online}{}{}
+    \name{author}{1}{}{%
+      {{hash=N}{%
+         family={NodeJS},
+         familyi={N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{N1}
+    \strng{fullhash}{N1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Qu'est-ce que NodeJS ?}
+    \verb{url}
+    \verb - https://nodejs.org/api/documentation.html
+    \endverb
+    \field{year}{Accès le 10-Avril-2024}
+  \endentry
+
+  \entry{ExpressJS}{online}{}{}
+    \name{author}{1}{}{%
+      {{hash=e}{%
+         family={espressJS},
+         familyi={e\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{e1}
+    \strng{fullhash}{e1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Qu'est-ce que expressjs ?}
+    \verb{url}
+    \verb https://expressjs.com/fr/
+    \endverb
+    \field{year}{Accès le 10-Avril-2024}
+  \endentry
+
+  \entry{Mongodb}{online}{}{}
+    \name{author}{1}{}{%
+      {{hash=m}{%
+         family={mongodb},
+         familyi={m\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{m1}
+    \strng{fullhash}{m1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Qu'est-ce que mongoDb ?}
+    \verb{url}
+    \verb - https://www.mongodb.com/fr-fr/what-is-mongodb
+    \endverb
+    \field{year}{Accès le 10-Avril-2024}
+  \endentry
+
+  \entry{vscode}{online}{}{}
+    \name{author}{1}{}{%
+      {{hash=v}{%
+         family={vscode},
+         familyi={v\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{v1}
+    \strng{fullhash}{v1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Qu'est-ce que vs code?}
+    \verb{url}
+    \verb https://code.visualstudio.com/docs
+    \endverb
+    \field{year}{Accès le 10-Avril-2024}
+  \endentry
+
+  \entry{postman}{online}{}{}
+    \name{author}{1}{}{%
+      {{hash=p}{%
+         family={postman},
+         familyi={p\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{p1}
+    \strng{fullhash}{p1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Qu'est-ce que postman ?}
+    \verb{url}
+    \verb https://www.postman.com/product/what-is-postman
+    \endverb
+    \field{year}{Accès le 10-Avril-2024}
+  \endentry
+
+  \entry{Figma}{online}{}{}
+    \name{author}{1}{}{%
+      {{hash=F}{%
+         family={Figma},
+         familyi={F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{F1}
+    \strng{fullhash}{F1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Qu'est-ce que Figma ?}
+    \verb{url}
+    \verb https://www.figma.com/fr-fr/figma-vs-adobe-xd/
+    \endverb
+    \field{year}{Accès le 10-Avril-2024}
+  \endentry
+
+  \entry{gitHub}{online}{}{}
+    \name{author}{1}{}{%
+      {{hash=g}{%
+         family={gitHub},
+         familyi={g\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{g1}
+    \strng{fullhash}{g1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Qu'est-ce que gitHub ?}
+    \verb{url}
+    \verb https://docs.github.com/en
+    \endverb
+    \field{year}{Accès le 10-Avril-2024}
+  \endentry
+
+  \entry{MVC}{online}{}{}
+    \name{author}{1}{}{%
+      {{hash=M}{%
+         family={MVC},
+         familyi={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{M1}
+    \strng{fullhash}{M1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Fonctionnement de MVC}
+    \verb{url}
+    \verb https://cisco.goffinet.org/devasc/concepts-dev-developpement-logiciel
+    \verb /
+    \endverb
+    \field{year}{Accès le 10-Avril-2024}
+  \endentry
+\enddatalist
+\endinput

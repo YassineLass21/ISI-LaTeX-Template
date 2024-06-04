@@ -30,7 +30,7 @@
 
 % load the book class using a4paper
 \LoadClass[11pt,a4paper, oneside]{book}
-\usepackage[a4paper]{geometry}
+\usepackage[a4paper, right=5cm]{geometry}
 
 % give the header a bit more room for fancyhdr below
 % otherwise LaTeX will spew on each page
@@ -191,7 +191,9 @@
 
 %% disabling chapter numbers
 \newcommand{\filterminitoc}[1]{#1}
-\renewcommand{\thesection}{\csname filterminitoc \endcsname{\arabic{chapter}.}\arabic{section}}
+\renewcommand{\thesection}{\Roman{section}.}
+\renewcommand{\thesubsection}{\arabic{subsection}.}
+\renewcommand{\thesubsubsection}{\thesubsection \arabic{subsubsection}.}
 \newcommand{\minitocsection}{\begingroup\renewcommand{\filterminitoc}[1]{}\minitoc\endgroup}
 
 %=============== Customizing Chapters Names ===============%
@@ -301,7 +303,7 @@
   \fancyhf{}
   \renewcommand{\footrulewidth}{0pt}
   \renewcommand{\headrulewidth}{0pt}
-  \fancyfoot[C]{{\noindent\makebox[\textwidth][c]{Année Universitaire \@collegeYear}}}
+  \fancyfoot[C]{{\noindent\makebox[\textwidth][c]{Année Universitaire 2023-2024}}}
 }
 
 \fancypagestyle{backcover}{
@@ -312,39 +314,7 @@
   \setlength{\footskip}{0mm}
 
   %%% ISI Footer %%%
-  \fancyfoot[C]{
-    \centering\color{isiBlue}
-    {\ifthenelse{\boolean{wantToTypeCompanyAddress}}
-    {% IF TRUE
-        \makebox[\textwidth][c]{\rule{1.03\columnwidth}{1pt}}
-        \makebox[\textwidth][c]{
-        	\small\textLR{\@companyEmail} \footnotesize{\textAR{البريد الالكتروني :}}
-        	\footnotesize{\textLR{\@companyFax}\textAR{الفاكس : }}
-        	\footnotesize{\textLR{\@companyTel}\textAR{الهاتف : }}
-        	\footnotesize{\textAR{\@companyAddressAR}}
-        }
-        \makebox[\textwidth][c]{
-        	\small\textLR{\@companyAddressFR}
-        	~~\small\textLR{\textbf{Tél} : \@companyTel}
-        	~\small\textLR{\textbf{Fax} : \@companyFax}
-        	~\small\textLR{\textbf{Email} : \@companyEmail}
-        }
-        \vspace{-3mm}
-    }{\vspace{8mm}}}
-    \makebox[\textwidth][c]{\rule[2mm]{1.03\columnwidth}{1pt}}
-    \makebox[\textwidth][c]{
-    	\small\textLR{isi@isim.rnu.tn} \footnotesize{\textAR{البريد الالكتروني : }}
-    	~~~~~\footnotesize{\textLR{71 706 698}\textAR{الفاكس : }}
-    	~~~~~\footnotesize{\textLR{71 706 164}\textAR{الهاتف : }}
-    	~~~~~\footnotesize{\textAR{ أريانة }}\textLR{2080}\textAR{ نهج أبو الريحان الباروني }\textLR{2}
-    }
-    \makebox[\textwidth][c]{
-    	\small\textLR{2, Abou Raihane Bayrouni 2080 l'Ariana}
-    	~~~~~~~~\small\textLR{\textbf{Tél} : 71 706 164}
-    	~~~~~~~~\small\textLR{\textbf{Fax} : 71 706 698}
-    	~~~~~~~~\small\textLR{\textbf{Email} : isi@isim.rnu.tn}
-    }
-  }
+
 }
 
 % standard graphics package for inclusion of images and eps files into LaTeX document
